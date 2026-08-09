@@ -1,0 +1,279 @@
+problem_id,problem,slug,difficulty,language,submission_id,status,timestamp,runtime,memory,file
+4363,Minimum Total Price After Applying Discounts,minimum-total-price-after-applying-discounts,Unclassified,C++,2099871571,Accepted,1786249006,167 ms,225.9 MB,Unclassified/4363-Minimum Total Price After Applying Discounts.cpp
+4352,Weighted Sum of a Tree,weighted-sum-of-a-tree,Unclassified,C++,2099868552,Accepted,1786248748,4 ms,189.3 MB,Unclassified/4352-Weighted Sum of a Tree.cpp
+257,Binary Tree Paths,binary-tree-paths,Unclassified,C++,2099289410,Accepted,1786204141,1 ms,17.5 MB,Unclassified/257-Binary Tree Paths.cpp
+518,Coin Change II,coin-change-ii,Unclassified,C++,2099156717,Accepted,1786196637,7 ms,10.2 MB,Unclassified/518-Coin Change II.cpp
+1014,K Closest Points to Origin,k-closest-points-to-origin,Unclassified,C++,2099112471,Accepted,1786193968,48 ms,67.6 MB,Unclassified/1014-K Closest Points to Origin.cpp
+486,Predict the Winner,predict-the-winner,Unclassified,C++,2098904911,Accepted,1786181025,0 ms,9.8 MB,Unclassified/486-Predict the Winner.cpp
+747,Min Cost Climbing Stairs,min-cost-climbing-stairs,Unclassified,C++,2098235407,Accepted,1786122211,0 ms,17.6 MB,Unclassified/747-Min Cost Climbing Stairs.cpp
+122,Best Time to Buy and Sell Stock II,best-time-to-buy-and-sell-stock-ii,Unclassified,C++,2098230259,Accepted,1786121982,0 ms,20.2 MB,Unclassified/122-Best Time to Buy and Sell Stock II.cpp
+278,First Bad Version,first-bad-version,Unclassified,C++,2098222801,Accepted,1786121651,2 ms,7.9 MB,Unclassified/278-First Bad Version.cpp
+59,Spiral Matrix II,spiral-matrix-ii,Unclassified,C++,2098216721,Accepted,1786121378,0 ms,9.3 MB,Unclassified/59-Spiral Matrix II.cpp
+658,Find K Closest Elements,find-k-closest-elements,Unclassified,C++,2098008895,Accepted,1786110530,35 ms,38.8 MB,Unclassified/658-Find K Closest Elements.cpp
+416,Partition Equal Subset Sum,partition-equal-subset-sum,Unclassified,C++,2096994751,Accepted,1786035054,130 ms,17.2 MB,Unclassified/416-Partition Equal Subset Sum.cpp
+1833,Find the Highest Altitude,find-the-highest-altitude,Unclassified,C++,2096691403,Accepted,1786021527,0 ms,10.8 MB,Unclassified/1833-Find the Highest Altitude.cpp
+175,Combine Two Tables,combine-two-tables,Unclassified,MySQL,2096097373,Accepted,1785990282,464 ms,0.0B,Unclassified/175-Combine Two Tables.sql
+3626,Smallest Divisible Digit Product I,smallest-divisible-digit-product-i,Unclassified,C++,2096093324,Accepted,1785990060,0 ms,8.5 MB,Unclassified/3626-Smallest Divisible Digit Product I.cpp
+36,Valid Sudoku,valid-sudoku,Unclassified,C++,2095689284,Accepted,1785951118,0 ms,21.4 MB,Unclassified/36-Valid Sudoku.cpp
+1988,Minimize Maximum Pair Sum in Array,minimize-maximum-pair-sum-in-array,Unclassified,C++,2095677538,Accepted,1785950683,181 ms,99.8 MB,Unclassified/1988-Minimize Maximum Pair Sum in Array.cpp
+1482,How Many Numbers Are Smaller Than the Current Number,how-many-numbers-are-smaller-than-the-current-number,Unclassified,C++,2095672530,Accepted,1785950493,20 ms,14.3 MB,Unclassified/1482-How Many Numbers Are Smaller Than the Current Number.cpp
+77,Combinations,combinations,Unclassified,C++,2094294850,Accepted,1785861388,35 ms,62.4 MB,Unclassified/77-Combinations.cpp
+1951,Find the Winner of the Circular Game,find-the-winner-of-the-circular-game,Unclassified,C++,2093971894,Accepted,1785847207,0 ms,7.9 MB,Unclassified/1951-Find the Winner of the Circular Game.cpp
+37,Sudoku Solver,sudoku-solver,Unclassified,C++,2093590962,Accepted,1785826172,525 ms,9 MB,Unclassified/37-Sudoku Solver.cpp
+17,Letter Combinations of a Phone Number,letter-combinations-of-a-phone-number,Unclassified,C++,2093490525,Accepted,1785821928,0 ms,9.2 MB,Unclassified/17-Letter Combinations of a Phone Number.cpp
+4107,Find Missing Elements,find-missing-elements,Unclassified,C++,2093375174,Accepted,1785814747,1 ms,32.3 MB,Unclassified/4107-Find Missing Elements.cpp
+3963,Number of Perfect Pairs,number-of-perfect-pairs,Unclassified,C++,2092921243,Accepted,1785775216,41 ms,131.3 MB,Unclassified/3963-Number of Perfect Pairs.cpp
+99,Recover Binary Search Tree,recover-binary-search-tree,Unclassified,C++,2092897800,Accepted,1785774323,0 ms,60.9 MB,Unclassified/99-Recover Binary Search Tree.cpp
+2436,Make Array Zero by Subtracting Equal Amounts,make-array-zero-by-subtracting-equal-amounts,Unclassified,C++,2092478031,Accepted,1785753062,0 ms,10.7 MB,Unclassified/2436-Make Array Zero by Subtracting Equal Amounts.cpp
+799,Minimum Distance Between BST Nodes,minimum-distance-between-bst-nodes,Unclassified,C++,2092422478,Accepted,1785750186,0 ms,12.4 MB,Unclassified/799-Minimum Distance Between BST Nodes.cpp
+1522,Stone Game III,stone-game-iii,Unclassified,C++,2092241434,Accepted,1785739983,15 ms,130.1 MB,Unclassified/1522-Stone Game III.cpp
+263,Ugly Number,ugly-number,Unclassified,C++,2091422780,Accepted,1785678263,0 ms,7.7 MB,Unclassified/263-Ugly Number.cpp
+347,Top K Frequent Elements,top-k-frequent-elements,Unclassified,C++,2091406784,Accepted,1785677430,14 ms,19.1 MB,Unclassified/347-Top K Frequent Elements.cpp
+215,Kth Largest Element in an Array,kth-largest-element-in-an-array,Unclassified,C++,2091376824,Accepted,1785675821,23 ms,69 MB,Unclassified/215-Kth Largest Element in an Array.cpp
+909,Stone Game,stone-game,Unclassified,C++,2091330958,Accepted,1785673217,0 ms,10.5 MB,Unclassified/909-Stone Game.cpp
+4323,Count Subarrays With Even Odd Ratio I,count-subarrays-with-even-odd-ratio-i,Unclassified,C++,2091317778,Accepted,1785672414,52 ms,29.8 MB,Unclassified/4323-Count Subarrays With Even Odd Ratio I.cpp
+4371,Maximize Pair Strength Using GCD,maximize-pair-strength-using-gcd,Unclassified,C++,2091301906,Accepted,1785671457,775 ms,37.2 MB,Unclassified/4371-Maximize Pair Strength Using GCD.cpp
+51,N-Queens,n-queens,Unclassified,C++,2091278136,Accepted,1785670039,0 ms,10.2 MB,Unclassified/51-N-Queens.cpp
+594,Longest Harmonious Subsequence,longest-harmonious-subsequence,Unclassified,C++,2090926379,Accepted,1785649063,14 ms,36.4 MB,Unclassified/594-Longest Harmonious Subsequence.cpp
+78,Subsets,subsets,Unclassified,C++,2090876956,Accepted,1785646062,0 ms,12.9 MB,Unclassified/78-Subsets.cpp
+4349,Minimum Initial Strength to Defeat All Monsters,minimum-initial-strength-to-defeat-all-monsters,Unclassified,C++,2090223586,Accepted,1785598792,77 ms,250.4 MB,Unclassified/4349-Minimum Initial Strength to Defeat All Monsters.cpp
+4365,Count Valid Prefixes,count-valid-prefixes,Unclassified,C++,2090074152,Accepted,1785595069,0 ms,9.5 MB,Unclassified/4365-Count Valid Prefixes.cpp
+1212,Sequential Digits,sequential-digits,Unclassified,C++,2089857520,Accepted,1785582385,0 ms,8.2 MB,Unclassified/1212-Sequential Digits.cpp
+1463,The K Weakest Rows in a Matrix,the-k-weakest-rows-in-a-matrix,Unclassified,C++,2089842475,Accepted,1785581472,0 ms,14.4 MB,Unclassified/1463-The K Weakest Rows in a Matrix.cpp
+148,Sort List,sort-list,Unclassified,C++,2089833605,Accepted,1785580943,8 ms,58.2 MB,Unclassified/148-Sort List.cpp
+56,Merge Intervals,merge-intervals,Unclassified,C++,2089511930,Accepted,1785562611,4 ms,23.9 MB,Unclassified/56-Merge Intervals.cpp
+4299,Concatenate Array With Reverse,concatenate-array-with-reverse,Unclassified,C++,2089127994,Accepted,1785519473,0 ms,30.8 MB,Unclassified/4299-Concatenate Array With Reverse.cpp
+109,Convert Sorted List to Binary Search Tree,convert-sorted-list-to-binary-search-tree,Unclassified,C++,2089108607,Accepted,1785518591,5 ms,33 MB,Unclassified/109-Convert Sorted List to Binary Search Tree.cpp
+3276,Minimum Number of Pushes to Type Word II,minimum-number-of-pushes-to-type-word-ii,Unclassified,C++,2089094550,Accepted,1785517953,16 ms,28.5 MB,Unclassified/3276-Minimum Number of Pushes to Type Word II.cpp
+324,Wiggle Sort II,wiggle-sort-ii,Unclassified,C++,2088433008,Accepted,1785480659,0 ms,22.6 MB,Unclassified/324-Wiggle Sort II.cpp
+892,Shortest Subarray with Sum at Least K,shortest-subarray-with-sum-at-least-k,Unclassified,C++,2088355095,Accepted,1785477409,14 ms,63.7 MB,Unclassified/892-Shortest Subarray with Sum at Least K.cpp
+547,Number of Provinces,number-of-provinces,Unclassified,C++,2087859954,Accepted,1785432524,3 ms,20.9 MB,Unclassified/547-Number of Provinces.cpp
+3275,Minimum Number of Pushes to Type Word I,minimum-number-of-pushes-to-type-word-i,Unclassified,C++,2087770493,Accepted,1785428926,0 ms,8.2 MB,Unclassified/3275-Minimum Number of Pushes to Type Word I.cpp
+2042,Maximum Product Difference Between Two Pairs,maximum-product-difference-between-two-pairs,Unclassified,C++,2087377275,Accepted,1785408119,28 ms,24 MB,Unclassified/2042-Maximum Product Difference Between Two Pairs.cpp
+209,Minimum Size Subarray Sum,minimum-size-subarray-sum,Unclassified,C++,2087370606,Accepted,1785407757,0 ms,42 MB,Unclassified/209-Minimum Size Subarray Sum.cpp
+152,Maximum Product Subarray,maximum-product-subarray,Unclassified,C++,2086859398,Accepted,1785382873,0 ms,17.6 MB,Unclassified/152-Maximum Product Subarray.cpp
+389,Find the Difference,find-the-difference,Unclassified,C++,2086496725,Accepted,1785346142,3 ms,9.3 MB,Unclassified/389-Find the Difference.cpp
+322,Coin Change,coin-change,Unclassified,C++,2086400622,Accepted,1785342486,19 ms,17.9 MB,Unclassified/322-Coin Change.cpp
+107,Binary Tree Level Order Traversal II,binary-tree-level-order-traversal-ii,Unclassified,C++,2086384913,Accepted,1785341854,1 ms,15.9 MB,Unclassified/107-Binary Tree Level Order Traversal II.cpp
+3812,Smallest Palindromic Rearrangement I,smallest-palindromic-rearrangement-i,Unclassified,C++,2085133341,Accepted,1785259398,91 ms,53.9 MB,Unclassified/3812-Smallest Palindromic Rearrangement I.cpp
+1605,Minimum Number of Days to Make m Bouquets,minimum-number-of-days-to-make-m-bouquets,Unclassified,C++,2085096423,Accepted,1785258010,35 ms,70.6 MB,Unclassified/1605-Minimum Number of Days to Make m Bouquets.cpp
+907,Koko Eating Bananas,koko-eating-bananas,Unclassified,C++,2085028205,Accepted,1785255406,11 ms,22.9 MB,Unclassified/907-Koko Eating Bananas.cpp
+596,Classes With at Least 5 Students,classes-with-at-least-5-students,Unclassified,MySQL,2083623219,Accepted,1785168940,476 ms,0.0B,Unclassified/596-Classes With at Least 5 Students.sql
+202,Happy Number,happy-number,Unclassified,C++,2083620088,Accepted,1785168813,0 ms,7.9 MB,Unclassified/202-Happy Number.cpp
+2173,Number of Valid Words in a Sentence,number-of-valid-words-in-a-sentence,Unclassified,C++,2083610028,Accepted,1785168403,4 ms,10.4 MB,Unclassified/2173-Number of Valid Words in a Sentence.cpp
+1574,Maximum Product of Two Elements in an Array,maximum-product-of-two-elements-in-an-array,Unclassified,C++,2083568820,Accepted,1785166653,0 ms,13.5 MB,Unclassified/1574-Maximum Product of Two Elements in an Array.cpp
+23,Merge k Sorted Lists,merge-k-sorted-lists,Unclassified,C++,2082263289,Accepted,1785081921,8 ms,24.1 MB,Unclassified/23-Merge k Sorted Lists.cpp
+628,Maximum Product of Three Numbers,maximum-product-of-three-numbers,Unclassified,C++,2082257388,Accepted,1785081646,12 ms,31.4 MB,Unclassified/628-Maximum Product of Three Numbers.cpp
+15,3Sum,3sum,Unclassified,C++,2082225451,Accepted,1785080046,43 ms,29.1 MB,Unclassified/15-3Sum.cpp
+89,Gray Code,gray-code,Unclassified,C++,2082217713,Accepted,1785079651,7 ms,14.9 MB,Unclassified/89-Gray Code.cpp
+3859,Maximum Product of Two Digits,maximum-product-of-two-digits,Unclassified,C++,2081581804,Accepted,1785044149,0 ms,9 MB,Unclassified/3859-Maximum Product of Two Digits.cpp
+409,Longest Palindrome,longest-palindrome,Unclassified,C++,2080940001,Accepted,1784995231,0 ms,9.5 MB,Unclassified/409-Longest Palindrome.cpp
+577,Employee Bonus,employee-bonus,Unclassified,MySQL,2079914940,Accepted,1784915131,1105 ms,0.0B,Unclassified/577-Employee Bonus.sql
+88,Merge Sorted Array,merge-sorted-array,Unclassified,C++,2078735544,Accepted,1784827869,0 ms,12.5 MB,Unclassified/88-Merge Sorted Array.cpp
+190,Reverse Bits,reverse-bits,Unclassified,C++,2077388265,Accepted,1784738116,0 ms,8.3 MB,Unclassified/190-Reverse Bits.cpp
+201,Bitwise AND of Numbers Range,bitwise-and-of-numbers-range,Unclassified,C++,2076168245,Accepted,1784654473,0 ms,11.2 MB,Unclassified/201-Bitwise AND of Numbers Range.cpp
+4357,Number of Elapsed Seconds Between Two Times,number-of-elapsed-seconds-between-two-times,Unclassified,C++,2074804956,Accepted,1784564359,0 ms,10.2 MB,Unclassified/4357-Number of Elapsed Seconds Between Two Times.cpp
+3995,GCD of Odd and Even Sums,gcd-of-odd-and-even-sums,Unclassified,C++,2072624302,Accepted,1784395704,0 ms,8.5 MB,Unclassified/3995-GCD of Odd and Even Sums.cpp
+2591,Frog Jump II,frog-jump-ii,Unclassified,C++,2069698049,Accepted,1784195832,0 ms,69.2 MB,Unclassified/2591-Frog Jump II.cpp
+38,Count and Say,count-and-say,Unclassified,C++,2066489910,Accepted,1783964842,5 ms,10.2 MB,Unclassified/38-Count and Say.cpp
+350,Intersection of Two Arrays II,intersection-of-two-arrays-ii,Unclassified,C++,2062041816,Accepted,1783618135,0 ms,14.1 MB,Unclassified/350-Intersection of Two Arrays II.cpp
+191,Number of 1 Bits,number-of-1-bits,Unclassified,C++,2060364558,Accepted,1783505773,0 ms,8.2 MB,Unclassified/191-Number of 1 Bits.cpp
+153,Find Minimum in Rotated Sorted Array,find-minimum-in-rotated-sorted-array,Unclassified,C++,2059263164,Accepted,1783427065,0 ms,14.2 MB,Unclassified/153-Find Minimum in Rotated Sorted Array.cpp
+1086,Divisor Game,divisor-game,Unclassified,C++,2059260631,Accepted,1783426901,0 ms,7.7 MB,Unclassified/1086-Divisor Game.cpp
+3447,Clear Digits,clear-digits,Unclassified,C++,2058707965,Accepted,1783396704,0 ms,8.1 MB,Unclassified/3447-Clear Digits.cpp
+1543,Simplified Fractions,simplified-fractions,Unclassified,C++,2055020652,Accepted,1783104071,23 ms,26.2 MB,Unclassified/1543-Simplified Fractions.cpp
+520,Detect Capital,detect-capital,Unclassified,C++,2053817604,Accepted,1783012997,0 ms,8.1 MB,Unclassified/520-Detect Capital.cpp
+96,Unique Binary Search Trees,unique-binary-search-trees,Unclassified,C++,2052354855,Accepted,1782909945,0 ms,7.9 MB,Unclassified/96-Unique Binary Search Trees.cpp
+64,Minimum Path Sum,minimum-path-sum,Unclassified,C++,2050320540,Accepted,1782752139,0 ms,15.4 MB,Unclassified/64-Minimum Path Sum.cpp
+297,Serialize and Deserialize Binary Tree,serialize-and-deserialize-binary-tree,Unclassified,C++,2046464827,Accepted,1782454167,35 ms,48.7 MB,Unclassified/297-Serialize and Deserialize Binary Tree.cpp
+124,Binary Tree Maximum Path Sum,binary-tree-maximum-path-sum,Unclassified,C++,2045777085,Accepted,1782390312,0 ms,28 MB,Unclassified/124-Binary Tree Maximum Path Sum.cpp
+4332,Check Good Integer,check-good-integer,Unclassified,C++,2044741578,Accepted,1782313329,0 ms,7.8 MB,Unclassified/4332-Check Good Integer.cpp
+343,Integer Break,integer-break,Unclassified,C++,2044554659,Accepted,1782301205,0 ms,7.8 MB,Unclassified/343-Integer Break.cpp
+235,Lowest Common Ancestor of a Binary Search Tree,lowest-common-ancestor-of-a-binary-search-tree,Unclassified,C++,2044268412,Accepted,1782284342,23 ms,23.4 MB,Unclassified/235-Lowest Common Ancestor of a Binary Search Tree.cpp
+94,Binary Tree Inorder Traversal,binary-tree-inorder-traversal,Unclassified,C++,2043507870,Accepted,1782225787,0 ms,10.8 MB,Unclassified/94-Binary Tree Inorder Traversal.cpp
+226,Invert Binary Tree,invert-binary-tree,Unclassified,C++,2042013230,Accepted,1782122936,0 ms,12.6 MB,Unclassified/226-Invert Binary Tree.cpp
+106,Construct Binary Tree from Inorder and Postorder Traversal,construct-binary-tree-from-inorder-and-postorder-traversal,Unclassified,C++,2041859369,Accepted,1782115181,0 ms,27.5 MB,Unclassified/106-Construct Binary Tree from Inorder and Postorder Traversal.cpp
+113,Path Sum II,path-sum-ii,Unclassified,C++,2040065503,Accepted,1781973159,0 ms,20.9 MB,Unclassified/113-Path Sum II.cpp
+239,Sliding Window Maximum,sliding-window-maximum,Unclassified,C++,2038861543,Accepted,1781881139,13 ms,139.3 MB,Unclassified/239-Sliding Window Maximum.cpp
+969,Number of Recent Calls,number-of-recent-calls,Unclassified,C++,2038833376,Accepted,1781879298,17 ms,65 MB,Unclassified/969-Number of Recent Calls.cpp
+232,Implement Queue using Stacks,implement-queue-using-stacks,Unclassified,C++,2038829377,Accepted,1781879036,0 ms,10.1 MB,Unclassified/232-Implement Queue using Stacks.cpp
+84,Largest Rectangle in Histogram,largest-rectangle-in-histogram,Unclassified,C++,2037516067,Accepted,1781783075,20 ms,81.3 MB,Unclassified/84-Largest Rectangle in Histogram.cpp
+150,Evaluate Reverse Polish Notation,evaluate-reverse-polish-notation,Unclassified,C++,2037184259,Accepted,1781764396,3 ms,17.2 MB,Unclassified/150-Evaluate Reverse Polish Notation.cpp
+503,Next Greater Element II,next-greater-element-ii,Unclassified,C++,2036733619,Accepted,1781720028,8 ms,28.6 MB,Unclassified/503-Next Greater Element II.cpp
+1406,Subtract the Product and Sum of Digits of an Integer,subtract-the-product-and-sum-of-digits-of-an-integer,Unclassified,C++,2036715843,Accepted,1781719120,0 ms,7.9 MB,Unclassified/1406-Subtract the Product and Sum of Digits of an Integer.cpp
+1528,Kids With the Greatest Number of Candies,kids-with-the-greatest-number-of-candies,Unclassified,C++,2036706441,Accepted,1781718646,0 ms,12.4 MB,Unclassified/1528-Kids With the Greatest Number of Candies.cpp
+1603,Running Sum of 1d Array,running-sum-of-1d-array,Unclassified,C++,2036672075,Accepted,1781716969,0 ms,12.5 MB,Unclassified/1603-Running Sum of 1d Array.cpp
+1444,Number of Steps to Reduce a Number to Zero,number-of-steps-to-reduce-a-number-to-zero,Unclassified,C++,2036649608,Accepted,1781715867,0 ms,7.8 MB,Unclassified/1444-Number of Steps to Reduce a Number to Zero.cpp
+978,Valid Mountain Array,valid-mountain-array,Unclassified,C++,2036171264,Accepted,1781687934,16 ms,26.4 MB,Unclassified/978-Valid Mountain Array.cpp
+98,Validate Binary Search Tree,validate-binary-search-tree,Unclassified,C++,2034535758,Accepted,1781578799,0 ms,22 MB,Unclassified/98-Validate Binary Search Tree.cpp
+671,Second Minimum Node In a Binary Tree,second-minimum-node-in-a-binary-tree,Unclassified,C++,2034529305,Accepted,1781578123,0 ms,9.1 MB,Unclassified/671-Second Minimum Node In a Binary Tree.cpp
+1498,Find a Corresponding Node of a Binary Tree in a Clone of That Tree,find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree,Unclassified,C++,2034514011,Accepted,1781576345,378 ms,167.7 MB,Unclassified/1498-Find a Corresponding Node of a Binary Tree in a Clone of That Tree.cpp
+1137,Height Checker,height-checker,Unclassified,C++,2034151074,Accepted,1781539965,0 ms,11.5 MB,Unclassified/1137-Height Checker.cpp
+227,Basic Calculator II,basic-calculator-ii,Unclassified,C++,2033061321,Accepted,1781457099,10 ms,15.3 MB,Unclassified/227-Basic Calculator II.cpp
+874,Backspace String Compare,backspace-string-compare,Unclassified,C++,2032065126,Accepted,1781374333,0 ms,8.6 MB,Unclassified/874-Backspace String Compare.cpp
+745,Find Smallest Letter Greater Than Target,find-smallest-letter-greater-than-target,Unclassified,C++,2030819877,Accepted,1781268900,0 ms,19.9 MB,Unclassified/745-Find Smallest Letter Greater Than Target.cpp
+961,Long Pressed Name,long-pressed-name,Unclassified,C++,2030806985,Accepted,1781267898,0 ms,8.8 MB,Unclassified/961-Long Pressed Name.cpp
+155,Min Stack,min-stack,Unclassified,C++,2029864097,Accepted,1781190127,49 ms,151.2 MB,Unclassified/155-Min Stack.cpp
+5,Longest Palindromic Substring,longest-palindromic-substring,Unclassified,C++,2029445283,Accepted,1781162689,74 ms,164.9 MB,Unclassified/5-Longest Palindromic Substring.cpp
+22,Generate Parentheses,generate-parentheses,Unclassified,C++,2028662786,Accepted,1781097640,4 ms,16 MB,Unclassified/22-Generate Parentheses.cpp
+394,Decode String,decode-string,Unclassified,C++,2028649205,Accepted,1781096675,0 ms,9.5 MB,Unclassified/394-Decode String.cpp
+557,Reverse Words in a String III,reverse-words-in-a-string-iii,Unclassified,C++,2028618866,Accepted,1781094476,0 ms,12.1 MB,Unclassified/557-Reverse Words in a String III.cpp
+459,Repeated Substring Pattern,repeated-substring-pattern,Unclassified,C++,2028599393,Accepted,1781093066,48 ms,94.8 MB,Unclassified/459-Repeated Substring Pattern.cpp
+392,Is Subsequence,is-subsequence,Unclassified,C++,2028588062,Accepted,1781092239,0 ms,8.7 MB,Unclassified/392-Is Subsequence.cpp
+438,Find All Anagrams in a String,find-all-anagrams-in-a-string,Unclassified,C++,2027162375,Accepted,1780987131,5 ms,11.5 MB,Unclassified/438-Find All Anagrams in a String.cpp
+567,Permutation in String,permutation-in-string,Unclassified,C++,2027149693,Accepted,1780986513,1 ms,9.8 MB,Unclassified/567-Permutation in String.cpp
+3,Longest Substring Without Repeating Characters,longest-substring-without-repeating-characters,Unclassified,C++,2027092195,Accepted,1780983734,20 ms,14.4 MB,Unclassified/3-Longest Substring Without Repeating Characters.cpp
+357,Count Numbers with Unique Digits,count-numbers-with-unique-digits,Unclassified,C++,2027078809,Accepted,1780983030,0 ms,7.9 MB,Unclassified/357-Count Numbers with Unique Digits.cpp
+338,Counting Bits,counting-bits,Unclassified,C++,2027054766,Accepted,1780981744,0 ms,10.7 MB,Unclassified/338-Counting Bits.cpp
+383,Ransom Note,ransom-note,Unclassified,C++,2025245834,Accepted,1780827470,3 ms,12 MB,Unclassified/383-Ransom Note.cpp
+387,First Unique Character in a String,first-unique-character-in-a-string,Unclassified,C++,2025141407,Accepted,1780818976,19 ms,14.9 MB,Unclassified/387-First Unique Character in a String.cpp
+1221,Element Appearing More Than 25% In Sorted Array,element-appearing-more-than-25-in-sorted-array,Unclassified,C++,2024097398,Accepted,1780739832,0 ms,16.3 MB,Unclassified/1221-Element Appearing More Than 25% In Sorted Array.cpp
+443,String Compression,string-compression,Unclassified,C++,2023256122,Accepted,1780661641,0 ms,13.9 MB,Unclassified/443-String Compression.cpp
+49,Group Anagrams,group-anagrams,Unclassified,C++,2023237493,Accepted,1780660107,19 ms,24.8 MB,Unclassified/49-Group Anagrams.cpp
+344,Reverse String,reverse-string,Unclassified,C++,2022597508,Accepted,1780597280,0 ms,27.1 MB,Unclassified/344-Reverse String.cpp
+125,Valid Palindrome,valid-palindrome,Unclassified,C++,2022585244,Accepted,1780596569,0 ms,9.9 MB,Unclassified/125-Valid Palindrome.cpp
+54,Spiral Matrix,spiral-matrix,Unclassified,C++,2021954405,Accepted,1780553933,0 ms,9.2 MB,Unclassified/54-Spiral Matrix.cpp
+566,Reshape the Matrix,reshape-the-matrix,Unclassified,C++,2021930642,Accepted,1780552695,0 ms,15.8 MB,Unclassified/566-Reshape the Matrix.cpp
+1677,Matrix Diagonal Sum,matrix-diagonal-sum,Unclassified,C++,2021905484,Accepted,1780551234,0 ms,15 MB,Unclassified/1677-Matrix Diagonal Sum.cpp
+11,Container With Most Water,container-with-most-water,Unclassified,C++,2020883123,Accepted,1780466255,7 ms,63 MB,Unclassified/11-Container With Most Water.cpp
+105,Construct Binary Tree from Preorder and Inorder Traversal,construct-binary-tree-from-preorder-and-inorder-traversal,Unclassified,C++,2020460451,Accepted,1780421716,4 ms,27.3 MB,Unclassified/105-Construct Binary Tree from Preorder and Inorder Traversal.cpp
+1019,Squares of a Sorted Array,squares-of-a-sorted-array,Unclassified,C++,2019321080,Accepted,1780331785,0 ms,31.2 MB,Unclassified/1019-Squares of a Sorted Array.cpp
+643,Maximum Average Subarray I,maximum-average-subarray-i,Unclassified,C++,2019310693,Accepted,1780331208,0 ms,113.9 MB,Unclassified/643-Maximum Average Subarray I.cpp
+92,Reverse Linked List II,reverse-linked-list-ii,Unclassified,C++,2018361554,Accepted,1780247340,0 ms,11.1 MB,Unclassified/92-Reverse Linked List II.cpp
+1371,Minimum Remove to Make Valid Parentheses,minimum-remove-to-make-valid-parentheses,Unclassified,C++,2017526767,Accepted,1780168130,11 ms,14.4 MB,Unclassified/1371-Minimum Remove to Make Valid Parentheses.cpp
+2254,Check if Every Row and Column Contains All Numbers,check-if-every-row-and-column-contains-all-numbers,Unclassified,C++,2016608698,Accepted,1780073500,149 ms,98.5 MB,Unclassified/2254-Check if Every Row and Column Contains All Numbers.cpp
+560,Subarray Sum Equals K,subarray-sum-equals-k,Unclassified,C++,2015636171,Accepted,1779983472,35 ms,45.4 MB,Unclassified/560-Subarray Sum Equals K.cpp
+199,Binary Tree Right Side View,binary-tree-right-side-view,Unclassified,C++,2015622273,Accepted,1779982480,0 ms,14.9 MB,Unclassified/199-Binary Tree Right Side View.cpp
+102,Binary Tree Level Order Traversal,binary-tree-level-order-traversal,Unclassified,C++,2014544899,Accepted,1779883504,1 ms,17.1 MB,Unclassified/102-Binary Tree Level Order Traversal.cpp
+103,Binary Tree Zigzag Level Order Traversal,binary-tree-zigzag-level-order-traversal,Unclassified,C++,2013720251,Accepted,1779807684,0 ms,15 MB,Unclassified/103-Binary Tree Zigzag Level Order Traversal.cpp
+543,Diameter of Binary Tree,diameter-of-binary-tree,Unclassified,C++,2012597593,Accepted,1779712189,0 ms,23.6 MB,Unclassified/543-Diameter of Binary Tree.cpp
+784,Insert into a Binary Search Tree,insert-into-a-binary-search-tree,Unclassified,C++,2011748034,Accepted,1779629172,0 ms,59.4 MB,Unclassified/784-Insert into a Binary Search Tree.cpp
+687,Longest Univalue Path,longest-univalue-path,Unclassified,C++,2010835291,Accepted,1779547889,0 ms,72.3 MB,Unclassified/687-Longest Univalue Path.cpp
+783,Search in a Binary Search Tree,search-in-a-binary-search-tree,Unclassified,C++,2010774213,Accepted,1779542510,0 ms,35.6 MB,Unclassified/783-Search in a Binary Search Tree.cpp
+145,Binary Tree Postorder Traversal,binary-tree-postorder-traversal,Unclassified,C++,2009964415,Accepted,1779457741,0 ms,12.9 MB,Unclassified/145-Binary Tree Postorder Traversal.cpp
+144,Binary Tree Preorder Traversal,binary-tree-preorder-traversal,Unclassified,C++,2009952119,Accepted,1779456647,0 ms,12.5 MB,Unclassified/144-Binary Tree Preorder Traversal.cpp
+112,Path Sum,path-sum,Unclassified,C++,2009174941,Accepted,1779379080,0 ms,21.4 MB,Unclassified/112-Path Sum.cpp
+349,Intersection of Two Arrays,intersection-of-two-arrays,Unclassified,C++,2008320025,Accepted,1779294122,0 ms,13.7 MB,Unclassified/349-Intersection of Two Arrays.cpp
+168,Excel Sheet Column Title,excel-sheet-column-title,Unclassified,C++,2006845381,Accepted,1779158258,0 ms,7.7 MB,Unclassified/168-Excel Sheet Column Title.cpp
+4271,Find the Degree of Each Vertex,find-the-degree-of-each-vertex,Unclassified,C++,2006086668,Accepted,1779083042,0 ms,54.5 MB,Unclassified/4271-Find the Degree of Each Vertex.cpp
+172,Factorial Trailing Zeroes,factorial-trailing-zeroes,Unclassified,C++,2005782073,Accepted,1779040955,0 ms,8.1 MB,Unclassified/172-Factorial Trailing Zeroes.cpp
+2824,Check if The Number is Fascinating,check-if-the-number-is-fascinating,Unclassified,C++,2004443498,Accepted,1778922119,2 ms,9 MB,Unclassified/2824-Check if The Number is Fascinating.cpp
+83,Remove Duplicates from Sorted List,remove-duplicates-from-sorted-list,Unclassified,C++,2004438626,Accepted,1778921655,0 ms,16.3 MB,Unclassified/83-Remove Duplicates from Sorted List.cpp
+2639,Separate the Digits in an Array,separate-the-digits-in-an-array,Unclassified,C++,2003963869,Accepted,1778864017,0 ms,14.2 MB,Unclassified/2639-Separate the Digits in an Array.cpp
+1064,Smallest Integer Divisible by K,smallest-integer-divisible-by-k,Unclassified,C++,2003943112,Accepted,1778862432,0 ms,7.9 MB,Unclassified/1064-Smallest Integer Divisible by K.cpp
+728,Self Dividing Numbers,self-dividing-numbers,Unclassified,C++,2003937078,Accepted,1778861942,0 ms,9.3 MB,Unclassified/728-Self Dividing Numbers.cpp
+890,Lemonade Change,lemonade-change,Unclassified,C++,2003930022,Accepted,1778861378,0 ms,87.1 MB,Unclassified/890-Lemonade Change.cpp
+455,Assign Cookies,assign-cookies,Unclassified,C++,2002926169,Accepted,1778758197,11 ms,44.9 MB,Unclassified/455-Assign Cookies.cpp
+2556,Convert the Temperature,convert-the-temperature,Unclassified,C++,2002300804,Accepted,1778690222,0 ms,8.3 MB,Unclassified/2556-Convert the Temperature.cpp
+292,Nim Game,nim-game,Unclassified,C++,2001498865,Accepted,1778603398,0 ms,7.8 MB,Unclassified/292-Nim Game.cpp
+575,Distribute Candies,distribute-candies,Unclassified,C++,2000629711,Accepted,1778513540,14 ms,85.4 MB,Unclassified/575-Distribute Candies.cpp
+2812,Find the Maximum Achievable Number,find-the-maximum-achievable-number,Unclassified,C++,2000602449,Accepted,1778511437,0 ms,9.6 MB,Unclassified/2812-Find the Maximum Achievable Number.cpp
+1975,Minimum Distance to the Target Element,minimum-distance-to-the-target-element,Unclassified,C++,2000601312,Accepted,1778511350,0 ms,13.2 MB,Unclassified/1975-Minimum Distance to the Target Element.cpp
+2491,Smallest Even Multiple,smallest-even-multiple,Unclassified,C++,2000597515,Accepted,1778511050,0 ms,7.8 MB,Unclassified/2491-Smallest Even Multiple.cpp
+3778,Transform Array by Parity,transform-array-by-parity,Unclassified,C++,2000595263,Accepted,1778510879,0 ms,28.3 MB,Unclassified/3778-Transform Array by Parity.cpp
+4168,Mirror Distance of an Integer,mirror-distance-of-an-integer,Unclassified,C++,2000591997,Accepted,1778510625,0 ms,8.5 MB,Unclassified/4168-Mirror Distance of an Integer.cpp
+1984,Maximum Distance Between a Pair of Values,maximum-distance-between-a-pair-of-values,Unclassified,C++,2000589040,Accepted,1778510404,0 ms,102.3 MB,Unclassified/1984-Maximum Distance Between a Pair of Values.cpp
+2199,Two Furthest Houses With Different Colors,two-furthest-houses-with-different-colors,Unclassified,C++,2000584532,Accepted,1778510049,0 ms,12.3 MB,Unclassified/2199-Two Furthest Houses With Different Colors.cpp
+1544,Count Good Nodes in Binary Tree,count-good-nodes-in-binary-tree,Unclassified,C++,1999868394,Accepted,1778430105,100 ms,88.3 MB,Unclassified/1544-Count Good Nodes in Binary Tree.cpp
+222,Count Complete Tree Nodes,count-complete-tree-nodes,Unclassified,C++,1999800220,Accepted,1778423750,0 ms,31.4 MB,Unclassified/222-Count Complete Tree Nodes.cpp
+12,Integer to Roman,integer-to-roman,Unclassified,C++,1998834279,Accepted,1778333024,0 ms,9.2 MB,Unclassified/12-Integer to Roman.cpp
+24,Swap Nodes in Pairs,swap-nodes-in-pairs,Unclassified,C++,1998822854,Accepted,1778331831,0 ms,11.3 MB,Unclassified/24-Swap Nodes in Pairs.cpp
+9,Palindrome Number,palindrome-number,Unclassified,C++,1998277232,Accepted,1778258765,0 ms,8.6 MB,Unclassified/9-Palindrome Number.cpp
+111,Minimum Depth of Binary Tree,minimum-depth-of-binary-tree,Unclassified,C++,1997470097,Accepted,1778166838,0 ms,146.5 MB,Unclassified/111-Minimum Depth of Binary Tree.cpp
+104,Maximum Depth of Binary Tree,maximum-depth-of-binary-tree,Unclassified,C++,1997464122,Accepted,1778166329,0 ms,19.1 MB,Unclassified/104-Maximum Depth of Binary Tree.cpp
+110,Balanced Binary Tree,balanced-binary-tree,Unclassified,C++,1996698891,Accepted,1778081724,0 ms,23.1 MB,Unclassified/110-Balanced Binary Tree.cpp
+3242,Count Elements With Maximum Frequency,count-elements-with-maximum-frequency,Unclassified,C++,1995590429,Accepted,1777965755,0 ms,22.8 MB,Unclassified/3242-Count Elements With Maximum Frequency.cpp
+151,Reverse Words in a String,reverse-words-in-a-string,Unclassified,C,1995480054,Accepted,1777957067,0 ms,9.1 MB,Unclassified/151-Reverse Words in a String.c
+561,Array Partition,array-partition,Unclassified,C++,1995074624,Accepted,1777909662,0 ms,31.9 MB,Unclassified/561-Array Partition.cpp
+101,Symmetric Tree,symmetric-tree,Unclassified,C++,1995068018,Accepted,1777909120,0 ms,18.3 MB,Unclassified/101-Symmetric Tree.cpp
+70,Climbing Stairs,climbing-stairs,Unclassified,C++,1995047180,Accepted,1777907389,0 ms,7.9 MB,Unclassified/70-Climbing Stairs.cpp
+47,Permutations II,permutations-ii,Unclassified,C++,1995029468,Accepted,1777905915,31 ms,12.1 MB,Unclassified/47-Permutations II.cpp
+46,Permutations,permutations,Unclassified,C++,1995020920,Accepted,1777905188,0 ms,10.6 MB,Unclassified/46-Permutations.cpp
+69,Sqrt(x),sqrtx,Unclassified,C++,1994464795,Accepted,1777837022,0 ms,8.5 MB,Unclassified/69-Sqrt(x).cpp
+4,Median of Two Sorted Arrays,median-of-two-sorted-arrays,Unclassified,C++,1994460296,Accepted,1777836509,2 ms,96 MB,Unclassified/4-Median of Two Sorted Arrays.cpp
+67,Add Binary,add-binary,Unclassified,C++,1994310620,Accepted,1777824618,1 ms,11.2 MB,Unclassified/67-Add Binary.cpp
+58,Length of Last Word,length-of-last-word,Unclassified,C++,1994306369,Accepted,1777824279,0 ms,9.9 MB,Unclassified/58-Length of Last Word.cpp
+28,Find the Index of the First Occurrence in a String,find-the-index-of-the-first-occurrence-in-a-string,Unclassified,C++,1994289297,Accepted,1777822887,0 ms,9 MB,Unclassified/28-Find the Index of the First Occurrence in a String.cpp
+494,Target Sum,target-sum,Unclassified,C++,1993587749,Accepted,1777748452,4 ms,12.4 MB,Unclassified/494-Target Sum.cpp
+835,Linked List Components,linked-list-components,Unclassified,C++,1992777873,Accepted,1777657640,17 ms,25.9 MB,Unclassified/835-Linked List Components.cpp
+258,Add Digits,add-digits,Unclassified,C++,1992023251,Accepted,1777571923,0 ms,8.7 MB,Unclassified/258-Add Digits.cpp
+2299,Merge Nodes in Between Zeros,merge-nodes-in-between-zeros,Unclassified,C++,1991063685,Accepted,1777471215,4 ms,266.8 MB,Unclassified/2299-Merge Nodes in Between Zeros.cpp
+739,Daily Temperatures,daily-temperatures,Unclassified,C++,1990280730,Accepted,1777386184,30 ms,102.8 MB,Unclassified/739-Daily Temperatures.cpp
+55,Jump Game,jump-game,Unclassified,C++,1989425274,Accepted,1777297188,0 ms,52.5 MB,Unclassified/55-Jump Game.cpp
+20,Valid Parentheses,valid-parentheses,Unclassified,C++,1988650833,Accepted,1777210118,0 ms,8.8 MB,Unclassified/20-Valid Parentheses.cpp
+100,Same Tree,same-tree,Unclassified,C++,1988373939,Accepted,1777182464,0 ms,12.9 MB,Unclassified/100-Same Tree.cpp
+3019,Furthest Point From Origin,furthest-point-from-origin,Unclassified,C++,1987783900,Accepted,1777127559,0 ms,9.2 MB,Unclassified/3019-Furthest Point From Origin.cpp
+680,Valid Palindrome II,valid-palindrome-ii,Unclassified,C++,1987107596,Accepted,1777045712,4 ms,22.2 MB,Unclassified/680-Valid Palindrome II.cpp
+167,Two Sum II - Input Array Is Sorted,two-sum-ii-input-array-is-sorted,Unclassified,C++,1986158279,Accepted,1776948933,0 ms,19.5 MB,Unclassified/167-Two Sum II - Input Array Is Sorted.cpp
+951,Partition Array into Disjoint Intervals,partition-array-into-disjoint-intervals,Unclassified,C++,1984513548,Accepted,1776780993,0 ms,98.1 MB,Unclassified/951-Partition Array into Disjoint Intervals.cpp
+717,1-bit and 2-bit Characters,1-bit-and-2-bit-characters,Unclassified,C++,1983661916,Accepted,1776696999,0 ms,13.2 MB,Unclassified/717-1-bit and 2-bit Characters.cpp
+213,House Robber II,house-robber-ii,Unclassified,C++,1982806168,Accepted,1776614752,0 ms,10.2 MB,Unclassified/213-House Robber II.cpp
+1284,Four Divisors,four-divisors,Unclassified,C++,1981817173,Accepted,1776523626,14 ms,16.1 MB,Unclassified/1284-Four Divisors.cpp
+1411,Convert Binary Number in a Linked List to Integer,convert-binary-number-in-a-linked-list-to-integer,Unclassified,C++,1981063213,Accepted,1776441258,0 ms,10.8 MB,Unclassified/1411-Convert Binary Number in a Linked List to Integer.cpp
+42,Trapping Rain Water,trapping-rain-water,Unclassified,C++,1980337663,Accepted,1776363552,3 ms,27.3 MB,Unclassified/42-Trapping Rain Water.cpp
+3511,Find the Winning Player in Coin Game,find-the-winning-player-in-coin-game,Unclassified,C++,1980222072,Accepted,1776356491,0 ms,7.8 MB,Unclassified/3511-Find the Winning Player in Coin Game.cpp
+4175,Smallest All-Ones Multiple,smallest-all-ones-multiple,Unclassified,C++,1979260828,Accepted,1776264136,7 ms,8.4 MB,Unclassified/4175-Smallest All-Ones Multiple.cpp
+4266,Angles of a Triangle,angles-of-a-triangle,Unclassified,C++,1978415296,Accepted,1776182084,0 ms,29 MB,Unclassified/4266-Angles of a Triangle.cpp
+2323,Minimum Bit Flips to Convert Number,minimum-bit-flips-to-convert-number,Unclassified,C++,1977591095,Accepted,1776102714,0 ms,7.9 MB,Unclassified/2323-Minimum Bit Flips to Convert Number.cpp
+231,Power of Two,power-of-two,Unclassified,C++,1977579147,Accepted,1776102061,0 ms,7.8 MB,Unclassified/231-Power of Two.cpp
+90,Subsets II,subsets-ii,Unclassified,C++,1977557765,Accepted,1776100887,3 ms,10.7 MB,Unclassified/90-Subsets II.cpp
+39,Combination Sum,combination-sum,Unclassified,C++,1977511777,Accepted,1776098322,0 ms,14.2 MB,Unclassified/39-Combination Sum.cpp
+40,Combination Sum II,combination-sum-ii,Unclassified,C++,1977505019,Accepted,1776097912,3 ms,14.2 MB,Unclassified/40-Combination Sum II.cpp
+216,Combination Sum III,combination-sum-iii,Unclassified,C++,1977468098,Accepted,1776095566,0 ms,8.9 MB,Unclassified/216-Combination Sum III.cpp
+203,Remove Linked List Elements,remove-linked-list-elements,Unclassified,C++,1976518779,Accepted,1776008031,0 ms,20.1 MB,Unclassified/203-Remove Linked List Elements.cpp
+1013,Fibonacci Number,fibonacci-number,Unclassified,C++,1975604474,Accepted,1775926210,2 ms,7.7 MB,Unclassified/1013-Fibonacci Number.cpp
+198,House Robber,house-robber,Unclassified,C++,1974611399,Accepted,1775837462,0 ms,11 MB,Unclassified/198-House Robber.cpp
+268,Missing Number,missing-number,Unclassified,C++,1973772419,Accepted,1775754525,0 ms,21.9 MB,Unclassified/268-Missing Number.cpp
+217,Contains Duplicate,contains-duplicate,Unclassified,C++,1973749224,Accepted,1775753278,23 ms,70.8 MB,Unclassified/217-Contains Duplicate.cpp
+108,Convert Sorted Array to Binary Search Tree,convert-sorted-array-to-binary-search-tree,Unclassified,C++,1973734860,Accepted,1775752464,0 ms,22.9 MB,Unclassified/108-Convert Sorted Array to Binary Search Tree.cpp
+66,Plus One,plus-one,Unclassified,C++,1973705080,Accepted,1775750674,0 ms,11.7 MB,Unclassified/66-Plus One.cpp
+27,Remove Element,remove-element,Unclassified,C++,1973697165,Accepted,1775750161,0 ms,11.8 MB,Unclassified/27-Remove Element.cpp
+50,"Pow(x, n)",powx-n,Unclassified,C++,1972753610,Accepted,1775664680,0 ms,8.5 MB,"Unclassified/50-Pow(x, n).cpp"
+8,String to Integer (atoi),string-to-integer-atoi,Unclassified,C++,1972725723,Accepted,1775663001,0 ms,9.1 MB,Unclassified/8-String to Integer (atoi).cpp
+169,Majority Element,majority-element,Unclassified,C++,1971360223,Accepted,1775550196,0 ms,28 MB,Unclassified/169-Majority Element.cpp
+25,Reverse Nodes in k-Group,reverse-nodes-in-k-group,Unclassified,C++,1970664299,Accepted,1775488096,0 ms,16.6 MB,Unclassified/25-Reverse Nodes in k-Group.cpp
+61,Rotate List,rotate-list,Unclassified,C++,1969901137,Accepted,1775412916,0 ms,16.5 MB,Unclassified/61-Rotate List.cpp
+141,Linked List Cycle,linked-list-cycle,Unclassified,C++,1969864254,Accepted,1775410704,8 ms,11.8 MB,Unclassified/141-Linked List Cycle.cpp
+160,Intersection of Two Linked Lists,intersection-of-two-linked-lists,Unclassified,C++,1969862277,Accepted,1775410586,53 ms,23.9 MB,Unclassified/160-Intersection of Two Linked Lists.cpp
+2,Add Two Numbers,add-two-numbers,Unclassified,C++,1969839499,Accepted,1775409177,0 ms,77.1 MB,Unclassified/2-Add Two Numbers.cpp
+21,Merge Two Sorted Lists,merge-two-sorted-lists,Unclassified,C++,1969815771,Accepted,1775407656,0 ms,19.4 MB,Unclassified/21-Merge Two Sorted Lists.cpp
+2216,Delete the Middle Node of a Linked List,delete-the-middle-node-of-a-linked-list,Unclassified,C++,1969757309,Accepted,1775403429,0 ms,312.2 MB,Unclassified/2216-Delete the Middle Node of a Linked List.cpp
+19,Remove Nth Node From End of List,remove-nth-node-from-end-of-list,Unclassified,C++,1968663751,Accepted,1775312329,0 ms,15 MB,Unclassified/19-Remove Nth Node From End of List.cpp
+328,Odd Even Linked List,odd-even-linked-list,Unclassified,C++,1968645637,Accepted,1775310919,0 ms,15.7 MB,Unclassified/328-Odd Even Linked List.cpp
+234,Palindrome Linked List,palindrome-linked-list,Unclassified,C++,1967913740,Accepted,1775235625,12 ms,118.1 MB,Unclassified/234-Palindrome Linked List.cpp
+142,Linked List Cycle II,linked-list-cycle-ii,Unclassified,C++,1966985208,Accepted,1775147920,7 ms,11.4 MB,Unclassified/142-Linked List Cycle II.cpp
+206,Reverse Linked List,reverse-linked-list,Unclassified,C++,1966979690,Accepted,1775147592,0 ms,13.3 MB,Unclassified/206-Reverse Linked List.cpp
+908,Middle of the Linked List,middle-of-the-linked-list,Unclassified,C++,1966968898,Accepted,1775146956,0 ms,9.9 MB,Unclassified/908-Middle of the Linked List.cpp
+237,Delete Node in a Linked List,delete-node-in-a-linked-list,Unclassified,C++,1966966002,Accepted,1775146779,3 ms,12.4 MB,Unclassified/237-Delete Node in a Linked List.cpp
+1890,Sum of Beauty of All Substrings,sum-of-beauty-of-all-substrings,Unclassified,C++,1966963319,Accepted,1775146614,115 ms,26.2 MB,Unclassified/1890-Sum of Beauty of All Substrings.cpp
+13,Roman to Integer,roman-to-integer,Unclassified,C++,1966941312,Accepted,1775145163,4 ms,13.4 MB,Unclassified/13-Roman to Integer.cpp
+1737,Maximum Nesting Depth of the Parentheses,maximum-nesting-depth-of-the-parentheses,Unclassified,C++,1966932211,Accepted,1775144519,0 ms,8.2 MB,Unclassified/1737-Maximum Nesting Depth of the Parentheses.cpp
+242,Valid Anagram,valid-anagram,Unclassified,C++,1966023878,Accepted,1775060834,7 ms,9.8 MB,Unclassified/242-Valid Anagram.cpp
+812,Rotate String,rotate-string,Unclassified,C++,1966014769,Accepted,1775060269,0 ms,8.1 MB,Unclassified/812-Rotate String.cpp
+205,Isomorphic Strings,isomorphic-strings,Unclassified,C++,1965116224,Accepted,1774977874,0 ms,9.4 MB,Unclassified/205-Isomorphic Strings.cpp
+14,Longest Common Prefix,longest-common-prefix,Unclassified,C++,1965092423,Accepted,1774976656,1 ms,12.2 MB,Unclassified/14-Longest Common Prefix.cpp
+2032,Largest Odd Number in String,largest-odd-number-in-string,Unclassified,C++,1965074738,Accepted,1774975735,0 ms,17.9 MB,Unclassified/2032-Largest Odd Number in String.cpp
+1078,Remove Outermost Parentheses,remove-outermost-parentheses,Unclassified,C++,1965044132,Accepted,1774974084,0 ms,8.9 MB,Unclassified/1078-Remove Outermost Parentheses.cpp
+162,Find Peak Element,find-peak-element,Unclassified,C++,1965034313,Accepted,1774973531,0 ms,12.6 MB,Unclassified/162-Find Peak Element.cpp
+540,Single Element in a Sorted Array,single-element-in-a-sorted-array,Unclassified,C++,1963073151,Accepted,1774804300,0 ms,26.2 MB,Unclassified/540-Single Element in a Sorted Array.cpp
+81,Search in Rotated Sorted Array II,search-in-rotated-sorted-array-ii,Unclassified,C++,1962107271,Accepted,1774721927,0 ms,17.9 MB,Unclassified/81-Search in Rotated Sorted Array II.cpp
+33,Search in Rotated Sorted Array,search-in-rotated-sorted-array,Unclassified,C++,1962095599,Accepted,1774721237,0 ms,15.3 MB,Unclassified/33-Search in Rotated Sorted Array.cpp
+34,Find First and Last Position of Element in Sorted Array,find-first-and-last-position-of-element-in-sorted-array,Unclassified,C++,1962062772,Accepted,1774719281,0 ms,17.4 MB,Unclassified/34-Find First and Last Position of Element in Sorted Array.cpp
+35,Search Insert Position,search-insert-position,Unclassified,C++,1962031521,Accepted,1774717306,0 ms,13.5 MB,Unclassified/35-Search Insert Position.cpp
+792,Binary Search,binary-search,Unclassified,C++,1961077602,Accepted,1774630143,0 ms,31.4 MB,Unclassified/792-Binary Search.cpp
+48,Rotate Image,rotate-image,Unclassified,C++,1960185499,Accepted,1774546450,0 ms,10.3 MB,Unclassified/48-Rotate Image.cpp
+73,Set Matrix Zeroes,set-matrix-zeroes,Unclassified,C++,1960129736,Accepted,1774543738,0 ms,20.7 MB,Unclassified/73-Set Matrix Zeroes.cpp
+31,Next Permutation,next-permutation,Unclassified,C++,1960081554,Accepted,1774541174,0 ms,15.6 MB,Unclassified/31-Next Permutation.cpp
+2271,Rearrange Array Elements by Sign,rearrange-array-elements-by-sign,Unclassified,C++,1960069881,Accepted,1774540496,3 ms,128.3 MB,Unclassified/2271-Rearrange Array Elements by Sign.cpp
+121,Best Time to Buy and Sell Stock,best-time-to-buy-and-sell-stock,Unclassified,C++,1960032487,Accepted,1774538179,1 ms,97.5 MB,Unclassified/121-Best Time to Buy and Sell Stock.cpp
+456,132 Pattern,132-pattern,Unclassified,C++,1959981587,Accepted,1774534921,9 ms,70.8 MB,Unclassified/456-132 Pattern.cpp
+53,Maximum Subarray,maximum-subarray,Unclassified,C++,1959043291,Accepted,1774455159,0 ms,71.6 MB,Unclassified/53-Maximum Subarray.cpp
+75,Sort Colors,sort-colors,Unclassified,C++,1959036814,Accepted,1774454819,0 ms,11.7 MB,Unclassified/75-Sort Colors.cpp
+1,Two Sum,two-sum,Unclassified,C++,1959028434,Accepted,1774454356,3 ms,14.9 MB,Unclassified/1-Two Sum.cpp
+136,Single Number,single-number,Unclassified,C++,1959003793,Accepted,1774452936,0 ms,20.6 MB,Unclassified/136-Single Number.cpp
+485,Max Consecutive Ones,max-consecutive-ones,Unclassified,C++,1958977435,Accepted,1774451333,0 ms,50.1 MB,Unclassified/485-Max Consecutive Ones.cpp
+283,Move Zeroes,move-zeroes,Unclassified,C++,1958065240,Accepted,1774374310,0 ms,23.8 MB,Unclassified/283-Move Zeroes.cpp
+189,Rotate Array,rotate-array,Unclassified,C++,1958030231,Accepted,1774372670,0 ms,29.6 MB,Unclassified/189-Rotate Array.cpp
+26,Remove Duplicates from Sorted Array,remove-duplicates-from-sorted-array,Unclassified,C++,1957951637,Accepted,1774368873,0 ms,22.6 MB,Unclassified/26-Remove Duplicates from Sorted Array.cpp
+1878,Check if Array Is Sorted and Rotated,check-if-array-is-sorted-and-rotated,Unclassified,C++,1957922813,Accepted,1774367314,0 ms,11.1 MB,Unclassified/1878-Check if Array Is Sorted and Rotated.cpp
+7,Reverse Integer,reverse-integer,Unclassified,C++,1957897470,Accepted,1774365822,5 ms,8.6 MB,Unclassified/7-Reverse Integer.cpp
