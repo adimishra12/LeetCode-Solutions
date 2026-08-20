@@ -3,10 +3,6 @@ public:
     vector<vector<int>> t;  
     int lcs(string s1, string s2, int n, int m)
     {
-        for(int i = 0; i < n + 1; i++)
-            for(int j = 0; j < m + 1; j++)
-                if(i == 0 || j == 0)
-                    t[i][j] = 0;
         for(int i = 1; i < n + 1; i++)
         {
             for(int j = 1; j < m + 1; j++)
@@ -20,7 +16,9 @@ public:
         return t[n][m];      
     }
     int longestCommonSubsequence(string text1, string text2) {
-         t = vector<vector<int>>(1001, vector<int>(1001, 0));
-        return lcs(text1, text2, text1.size(), text2.size());
+        int n = text1.size();
+        int m = text2.size();
+         t = vector<vector<int>>(n + 1, vector<int>(m + 1, 0));
+        return lcs(text1, text2, n, m);
     }
 };
