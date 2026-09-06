@@ -17,7 +17,7 @@ public:
                 j = i + 1;
             }   
         }
-        sort(ans.begin(), ans.end(), greater<string>());
+        sort(ans.rbegin(), ans.rend());
         string str = "";
         for(auto ch : ans)
             str += ch;
